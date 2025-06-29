@@ -4,7 +4,7 @@ import { getThemeConfig } from "@sugarat/theme/node";
 
 // 开启RSS支持（RSS配置）
 
-const baseUrl = "http://localhost:5173";
+const baseUrl = "http://blog.deteam.cn";
 const RSS: Theme.RSSOptions = {
   title: "IIYBICT Blog",
   baseUrl,
